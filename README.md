@@ -15,7 +15,7 @@ win10安装
 
 ```
 Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Force
-Invoke-Expression -Command (Invoke-WebRequest -UseBasicParsing -Uri https://gitee.com/qq858271770/unlock-netease-cloud/raw/master/daima).Content
+Invoke-Expression -Command (Invoke-WebRequest -UseBasicParsing -Uri https://github.com/linchen666888/unlock-netease-cloud-master/daima).Content
 ```
 
 
